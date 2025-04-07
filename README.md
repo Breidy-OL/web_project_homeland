@@ -25,3 +25,15 @@ Git bash
 GITHUB
 
 PÁGINAS DE GITHUB
+
+BRANCH
+
+GRID LAYOUT
+
+FUNCIONALIDAD:
+la pagina es una galería de fotos de las distintas ciudades de donde provienen todos nuestros compañeros de tripleten, mostrando imagenes increibles de lugares magicos a lo largo de la misma, la cereza del pastel es la más linda de todas,mi ciudad Natal.
+Ésta consta de:
+-inicio de pagina
+-Seccion Galería
+-Seccion de histórias
+-acceso a compra de Obras
